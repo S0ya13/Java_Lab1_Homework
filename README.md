@@ -1,0 +1,2 @@
+- Homework for first Java Programming lab.
+- Student id: 72566
